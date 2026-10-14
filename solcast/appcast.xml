@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Solcast</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 15 Oct 2026 02:01:23 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Sol-momma/star-forge/releases/download/solcast-v0.1.0/Solcast-0.1.0.dmg" length="9765376" type="application/octet-stream" sparkle:edSignature="tfA6ajyzW98QLbfG+DHYjU2n59PNte1iZsr3WoRhQB3zZm6Qex3eMUerYqoa2mNNtwtB5y8go23M9v/lfol0AQ=="/>
+        </item>
+    </channel>
+</rss>
