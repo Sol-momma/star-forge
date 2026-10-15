@@ -10,6 +10,9 @@
 - `snapsol-vX.Y.Z`
 - `thor-vX.Y.Z`
 
+## ライセンス（Solcast）
+Solcast のライセンスは AGPL-3.0 です（[LICENSE](LICENSE) を参照）。各 Solcast リリースの完全なソースコードは、[Releases](https://github.com/Sol-momma/star-forge/releases) の各リリースに添付したソース zip（`solcast-X.Y.Z-source.zip`）として入手できます。
+
 ## Sparkle appcast
 appcast は GitHub Pages の `/<app>/appcast.xml` で配信します:
 - https://sol-momma.github.io/star-forge/solcast/appcast.xml
