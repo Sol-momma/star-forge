@@ -10,8 +10,14 @@
 - `snapsol-vX.Y.Z`
 - `thor-vX.Y.Z`
 
-## ライセンス（Solcast）
-Solcast のライセンスは AGPL-3.0 です（[LICENSE](LICENSE) を参照）。各 Solcast リリースの完全なソースコードは、[Releases](https://github.com/Sol-momma/star-forge/releases) の各リリースに添付したソース zip（`solcast-X.Y.Z-source.zip`）として入手できます。
+## ライセンス
+ライセンスはアプリごとに異なります。**AGPL-3.0 が適用されるのは Solcast だけです**。このリポジトリ全体に適用されるライセンスはありません。
+
+| アプリ | ライセンス | ソース |
+|---|---|---|
+| Solcast | AGPL-3.0（[LICENSES/Solcast-AGPL-3.0.txt](LICENSES/Solcast-AGPL-3.0.txt)） | 各[リリース](https://github.com/Sol-momma/star-forge/releases)に添付したソース zip（`solcast-X.Y.Z-source.zip`） |
+| Snapsol | MIT（Snapsol のソースリポジトリの LICENSE による） | 非公開 |
+| Thor | ライセンス未定。許可なく再配布できません。 | 非公開 |
 
 ## Sparkle appcast
 appcast は GitHub Pages の `/<app>/appcast.xml` で配信します:
