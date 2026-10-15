@@ -10,6 +10,9 @@ Releases are tagged with the app name:
 - `snapsol-vX.Y.Z`
 - `thor-vX.Y.Z`
 
+## License (Solcast)
+Solcast is licensed under AGPL-3.0 (see [LICENSE](LICENSE)). The complete source code for each Solcast release is available as a source zip (`solcast-X.Y.Z-source.zip`) attached to that release on the [Releases](https://github.com/Sol-momma/star-forge/releases) page.
+
 ## Sparkle appcasts
 Appcasts are served from GitHub Pages at `/<app>/appcast.xml`:
 - https://sol-momma.github.io/star-forge/solcast/appcast.xml
